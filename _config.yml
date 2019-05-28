@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://eunbee31.github.io/photography/"
+baseurl: "//eunbee31.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/fulls"
 #google_analytics: "UA-46465113-2"
